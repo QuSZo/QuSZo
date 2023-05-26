@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> 👋 Hey everyone, I'm QuSZo 👋 </h1>
   
 <h3 align="center"> Skills </h3>
 <p align="center">
