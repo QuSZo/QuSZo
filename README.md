@@ -1,6 +1,4 @@
-<h1 align="center"> 👋 Hey everyone, I'm QuSZo 👋 </h1>
-  
-<p align="center"><<img src="./Images/github-text.png"/></p>
+<p align="center"><img src="./Images/github-text.png"/></p>
   
 <h3 align="center"> Skills </h3>
 <p align="center">
