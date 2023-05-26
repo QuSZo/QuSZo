@@ -13,9 +13,10 @@
 
  - :school: Studying at Rzeszów University Of Technology
  - :computer: I’m currently working on "Student Reporting System"
-      - .NET 6
-      - Blazor WebAssembly
-      - PostgreSQL
+      - Technologies:
+          - .NET 6
+          - Blazor WebAssembly
+          - PostgreSQL
 
 <br><br>
 
