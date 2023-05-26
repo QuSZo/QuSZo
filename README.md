@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
   
-
+<br>
+#Skills
 <p align="center">
   <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" height="75"/>
   &nbsp;
