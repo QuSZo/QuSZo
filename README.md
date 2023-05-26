@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" height="100" />
+
 <!--
 **QuSZo/QuSZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
