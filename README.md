@@ -10,8 +10,10 @@
 </p>
 
 <h4 align="center"> About me </h4>
+<p align="left">
 - :school: Studying at Rzeszów University Of Technology
 - :computer: I’m currently working on 'Student Reporting System'
+</p>
 
 <!--
 **QuSZo/QuSZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
