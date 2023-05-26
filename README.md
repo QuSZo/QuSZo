@@ -14,6 +14,9 @@
  - :school: Studying at Rzeszów University Of Technology
  - :computer: I’m currently working on "Student Reporting System"
 
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **QuSZo/QuSZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
