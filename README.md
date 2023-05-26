@@ -11,10 +11,10 @@
 
 <h4 align="center"> About me </h4>
 <p align="left">
-- :school: Studying at Rzeszów University Of Technology
+* :school: Studying at Rzeszów University Of Technology
 </p>
 <p align="left">
-- :computer: I’m currently working on 'Student Reporting System'
+* :computer: I’m currently working on 'Student Reporting System'
 </p>
 
 <!--
