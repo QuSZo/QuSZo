@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" height="75"/>
+  <p/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" height="75"/>
+  <p/>
   <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="80"/>
 </p>
 
