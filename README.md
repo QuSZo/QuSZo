@@ -1,5 +1,7 @@
 <h1 align="center"> 👋 Hey everyone, I'm QuSZo 👋 </h1>
   
+<p align="center"><<img src="./Images/github-text.png"/></p>
+  
 <h3 align="center"> Skills </h3>
 <p align="center">
   <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" height="75"/>
