@@ -9,6 +9,10 @@
   <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="80"/>
 </p>
 
+<h4 align="center"> About me </h4>
+- :school: Studying at Rzeszów University Of Technology
+- :computer: I’m currently working on 'Student Reporting System'
+
 <!--
 **QuSZo/QuSZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
