@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="50"/>
+  <div style="background-color: white; border-radios: 10px;"
+    <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="50"/>
+  </div>
 </p>
 
 <!--
