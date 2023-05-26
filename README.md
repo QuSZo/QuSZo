@@ -11,8 +11,8 @@
 
 <h4 align="center"> About me </h4>
 
-   - :school: Studying at Rzeszów University Of Technology
-   - :computer: I’m currently working on 'Student Reporting System'
+ - :school: Studying at Rzeszów University Of Technology
+ - :computer: I’m currently working on "Student Reporting System"
 
 
 <!--
