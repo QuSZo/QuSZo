@@ -11,6 +11,7 @@
 
 <h4 align="center"> About me </h4>
 <p align="left">
+   Markup :
 * :school: Studying at Rzeszów University Of Technology
 </p>
 <p align="left">
