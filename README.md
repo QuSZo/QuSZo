@@ -14,7 +14,7 @@
  - :school: Studying at Rzeszów University Of Technology
  - :computer: I’m currently working on "Student Reporting System"
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
