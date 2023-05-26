@@ -11,7 +11,7 @@
 
 <h4 align="center"> About me </h4>
 
- - :school: Studying at Rzeszów University Of Technology
+ - :school: Studying at Rzeszów University of Technology
  - :computer: I’m currently working on "Student Reporting System"
       - Technologies:
           - .NET 6
