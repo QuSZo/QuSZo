@@ -18,7 +18,7 @@
           - Blazor WebAssembly
           - PostgreSQL
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuSZo&show_icons=true&theme=radical&bg_color=00000000&text_color=854EBF"/>
