@@ -15,7 +15,7 @@
  - :computer: I’m currently working on "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
     - Technologies:
       - .NET 6.0
-      - Blazor WebAssembly
+      - React
       - PostgreSQL
  - :white_check_mark: Completed "Student Reporting System" project
       - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
