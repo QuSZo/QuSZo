@@ -12,14 +12,14 @@
 <h4 align="left"> About me </h4>
 
  - :school: Studying at Rzeszów University of Technology
- - :computer: I’m currently working on "Student Reporting System"
+ - :computer: I’m currently working on "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
     - Technologies:
       - .NET 6.0
       - Blazor WebAssembly
       - PostgreSQL
- - :computer: Completed "Student Reporting System" project
+ - :white_check_mark: Completed "Student Reporting System" project
       - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
- - :computer: Completed "File Tree Structure" project
+ - :white_check_mark: Completed "File Tree Structure" project
       - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
 
 <br>
