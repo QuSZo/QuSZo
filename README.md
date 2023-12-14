@@ -14,7 +14,7 @@
  - :school: Studying at Rzeszów University of Technology
  - :computer: I’m currently working on "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
     - Technologies:
-      - .NET 6.0
+      - .NET 7.0
       - React.js
       - PostgreSQL
  - :white_check_mark: Completed "Student Reporting System" project
