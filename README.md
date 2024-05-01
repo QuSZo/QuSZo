@@ -8,7 +8,7 @@
   &nbsp;
   <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="80"/>
   &nbsp;
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="80"/>
   &nbsp;
   <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="80"/>
 </p>
