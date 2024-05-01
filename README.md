@@ -7,6 +7,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" height="75"/>
   &nbsp;
   <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="80"/>
+  &nbsp;
+  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="80"/>
+  &nbsp;
+  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="80"/>
 </p>
 
 <h4 align="left"> About me </h4>
