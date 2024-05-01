@@ -15,7 +15,6 @@
 
 <h4 align="left"> About me </h4>
 
- - :eyes: At least one commit per day every day challenge: day 1
  - :school: Studying at Rzeszów University of Technology
  - :computer: I’m currently working on "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
     - Technologies:
