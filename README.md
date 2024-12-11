@@ -16,11 +16,13 @@
 <h4 align="left"> About me </h4>
 
  - :school: Studying at Rzeszów University of Technology
- - :computer: I’m currently working on "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
-    - Technologies:
-      - .NET 7.0
-      - React.js
-      - PostgreSQL
+ - :computer: I’m currently working on "GymNotes" project
+   - Technologies:
+     - .NET 8.0
+     - Next.js
+     - PostgreSQL
+ - :white_check_mark: Completed "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
+    - Technologies: .NET 7.0, React.js, PostgreSQL
  - :white_check_mark: Completed "Student Reporting System" project
       - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
  - :white_check_mark: Completed "File Tree Structure" project
