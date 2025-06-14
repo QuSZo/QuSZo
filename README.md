@@ -1,4 +1,4 @@
-<p align="center"><img src="./Images/github-text.png"/></p>
+<!-- <p align="center"><img src="./Images/github-text.png"/></p>
   
 <h3 align="center"> Skills </h3>
 <p align="center">
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
