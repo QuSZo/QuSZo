@@ -1,38 +1,24 @@
-<!-- <p align="center"><img src="./Images/github-text.png"/></p>
-  
 <h3 align="center"> Skills </h3>
 <p align="center">
   <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" height="75"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" height="75"/>
   &nbsp;
-  <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="80"/>
-  &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="80"/>
-  &nbsp;
-  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="80"/>
 </p>
 
 <h4 align="left"> About me </h4>
 
- - :school: Studying at Rzeszów University of Technology
- - :computer: I’m currently working on "GymNotes" project
-   - Technologies:
-     - .NET 8.0
-     - Next.js
-     - PostgreSQL
- - :white_check_mark: Completed "sk-it" project in The Students Scientific Club of Computer Scientists "KOD"
-    - Technologies: .NET 7.0, React.js, PostgreSQL
- - :white_check_mark: Completed "Student Reporting System" project
-      - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
- - :white_check_mark: Completed "File Tree Structure" project
-      - Technologies: .NET 6.0, Blazor WebAssembly, PostgreSQL
+ - :school: AGH University of Krakow & Rzeszów University of Technology
+ - :computer: Motorola Solutions Systems
 
 <br>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuSZo&show_icons=true&theme=radical&bg_color=00000000&text_color=854EBF"/>
-</p>
+</p> 
+-->
 
 <!--
 **QuSZo/QuSZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
