@@ -9,8 +9,8 @@
 
 <h4 align="left"> About me </h4>
 
- - :school: AGH University of Krakow & Rzeszów University of Technology
- - :computer: Motorola Solutions Systems
+ - :school: Computer Science Student at AGH University of Krakow & Rzeszów University of Technology
+ - :computer: Software Engineer at Motorola Solutions Systems
 
 <br>
 
