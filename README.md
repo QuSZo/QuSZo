@@ -1,10 +1,10 @@
 <h3 align="center"> Skills </h3>
 <p align="center">
-  <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" height="75"/>
+  <img src="./Images/csharp.png" height="75"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" height="75"/>
+  <img src="./Images/net.jpg" height="75"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="80"/>
+  <img src="./Images/react.png" height="75"/>
 </p>
 
 <h4 align="left"> About me </h4>
